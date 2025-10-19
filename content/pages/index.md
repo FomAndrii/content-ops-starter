@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Please!!! Unblock your team boost your time to production
+      text: Hello, my name is Anna.F, I am designer originally from Ukraine and based in Belgium
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/ANNA.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
